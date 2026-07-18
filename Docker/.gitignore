@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Local database exports and application logs
+*.sql
+*.dump
+*.backup
+*.log
+logs/
+
+# Local generated artifacts (keep committed model files already in the projects)
+artifacts/
+outputs/
+checkpoints/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

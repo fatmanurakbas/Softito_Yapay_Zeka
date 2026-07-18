@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Yapay zekâ nedir? İki cümleyle açıkla.",
+    "context": ""
+  },
+  {
+    "question": "Bu metinden iki önemli madde çıkar.",
+    "context": "Yerel küçük dil modelleri veriyi cihazda işleyebilir. Model boyutu ve quantization seviyesi bellek ile yanıt kalitesini etkiler."
+  }
+]

@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+models/*
+!models/.gitkeep
+data/processed/*.csv
+!data/processed/.gitkeep

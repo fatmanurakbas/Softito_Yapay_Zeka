@@ -1,0 +1,5 @@
+[
+  {"id": "summary-01", "task": "summary", "system": "Türkçe metni en fazla iki maddede özetle. Metinde olmayan bilgi ekleme.", "prompt": "Metin: Yerel modeller veriyi cihazda işleyebilir. Quantization bellek ihtiyacını azaltabilir ancak kaliteyi etkileyebilir.", "expected_keywords": ["yerel", "bellek"]},
+  {"id": "json-01", "task": "structured", "system": "Yalnızca geçerli JSON döndür.", "prompt": "Yorumu sınıflandır: 'Ürün kaliteli ama kargo geç geldi.' Çıktı: {\"label\": positive|negative|neutral, \"reason\": string}", "expected_keywords": []},
+  {"id": "turkish-01", "task": "qa", "system": "Türkçe, kısa ve doğrudan yanıt ver.", "prompt": "RAG ile fine-tuning arasındaki temel fark nedir?", "expected_keywords": ["bilgi", "model"]}
+]

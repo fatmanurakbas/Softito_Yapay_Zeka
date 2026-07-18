@@ -1,0 +1,1 @@
+{"base_model":"your-base-model","max_new_tokens":80,"use_nf4":true,"use_double_quant":true}

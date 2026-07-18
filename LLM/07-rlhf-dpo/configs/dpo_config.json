@@ -1,0 +1,1 @@
+{"base_model":"your-base-model","output_dir":"adapters/turkce-dpo","beta":0.1,"epochs":1,"learning_rate":0.000001,"batch_size":1,"max_length":512,"max_prompt_length":256}

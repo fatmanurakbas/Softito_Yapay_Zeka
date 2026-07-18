@@ -1,0 +1,4 @@
+Merhaba! Softito'nun NLP eğitimine https://softito.example adresinden bugün başladım.
+İletişim için bilgi@softito.example adresine yazabilirsiniz; fiyat 1.250,50 TL.
+Bu ürün hiç kötü değil, fakat kargo süresi beklediğimden daha uzundu.
+Yapay zekâ modelleri Türkçe metinlerde doğru ön işleme gerektirir.

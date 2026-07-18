@@ -1,0 +1,6 @@
+[
+  {"task": "sentiment", "output": "{\"label\": \"positive\", \"reason\": \"Yorum olumlu.\"}"},
+  {"task": "sentiment", "output": "{\"label\": \"mixed\", \"reason\": \"Çelişkili.\"}"},
+  {"task": "extraction", "output": "{\"product\": \"telefon\", \"issue\": \"şarj\", \"resolution\": null}"},
+  {"task": "extraction", "output": "Ürün: telefon"}
+]

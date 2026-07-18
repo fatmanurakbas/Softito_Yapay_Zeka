@@ -1,0 +1,3 @@
+{"instruction":"Kısa ve anlaşılır açıkla.","input":"RAG nedir?","output":"RAG, ilgili belgeleri getirip modele bağlam olarak veren yaklaşımdır."}
+{"instruction":"İki maddede özetle.","input":"Quantization bellek tüketimini azaltabilir ancak kaliteyi etkileyebilir.","output":"- Bellek ve çıkarım maliyeti düşebilir.\n- Düşük hassasiyet yanıt kalitesini etkileyebilir."}
+{"instruction":"Türkçe yanıt ver.","input":"LoRA neden kullanılır?","output":"LoRA, az sayıda adapter parametresi eğiterek fine-tuning maliyetini azaltmak için kullanılır."}

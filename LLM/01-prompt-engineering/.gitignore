@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+figures/*.png
+!figures/.gitkeep
+evaluation/results/*.json
+!evaluation/results/.gitkeep

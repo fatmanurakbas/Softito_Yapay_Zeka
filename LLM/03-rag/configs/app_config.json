@@ -1,0 +1,7 @@
+{
+  "model": "your-local-model",
+  "base_url": "http://localhost:11434/api",
+  "top_k": 3,
+  "chunk_size": 55,
+  "chunk_overlap": 12
+}

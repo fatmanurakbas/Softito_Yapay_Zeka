@@ -1,0 +1,1 @@
+# Python standart kütüphanesi yeterlidir. Canlı istek için yerel Ollama gerekir.

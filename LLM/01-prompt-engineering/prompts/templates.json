@@ -1,0 +1,14 @@
+{
+  "summary": {
+    "system": "Sen Türkçe metinleri doğru ve kısa özetleyen bir asistansın. Metinde olmayan bilgileri ekleme.",
+    "user": "Metni en fazla üç maddeyle özetle.\n\nMetin:\n---\n{text}\n---"
+  },
+  "sentiment": {
+    "system": "Sen Türkçe müşteri yorumlarını sınıflandırırsın. Yalnızca geçerli JSON döndür.",
+    "user": "Duyguyu sınıflandır. Etiket yalnızca positive, negative veya neutral olabilir.\n\nÖrnek:\nYorum: Ürün çok kaliteli.\nÇıktı: {{\"label\": \"positive\", \"reason\": \"Kalite olumlu belirtilmiş.\"}}\n\nYorum: {text}\nÇıktı:"
+  },
+  "extraction": {
+    "system": "Sen Türkçe metinden verilen alanları çıkaran bir asistansın. Bilinmeyen alanları null yap ve yalnızca JSON döndür.",
+    "user": "Metinden ürün, sorun ve çözüm alanlarını çıkar.\n\nMetin:\n---\n{text}\n---\n\nÇıktı şeması: {{\"product\": string|null, \"issue\": string|null, \"resolution\": string|null}}"
+  }
+}

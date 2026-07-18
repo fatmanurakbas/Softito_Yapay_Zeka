@@ -1,0 +1,2 @@
+# Temel proje örnekleri standart kütüphane ile çalışır.
+# Airflow DAG için apache-airflow; üretim dönüşümü için pyspark/delta-spark ekleyin.

@@ -1,0 +1,5 @@
+[
+  {"id":"rag","text":"RAG, ilgili belgeleri getirip model istemine ekleyerek kaynaklı yanıt üretir."},
+  {"id":"quant","text":"Quantization, model ağırlıklarının hassasiyetini düşürerek bellek gereksinimini azaltabilir."},
+  {"id":"langchain","text":"LangChain Runnable bileşenleri prompt, model ve parser akışlarını birleştirmeye yarar."}
+]

@@ -1,0 +1,1 @@
+# Python standart kütüphanesi yeterlidir. Canlı üretim için yerel Ollama gerekir.

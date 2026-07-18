@@ -1,0 +1,1 @@
+# Bu öğrenme çalışması yalnızca Python standart kütüphanesini kullanır.

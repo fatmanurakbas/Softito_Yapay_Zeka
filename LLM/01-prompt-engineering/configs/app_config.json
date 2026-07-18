@@ -1,0 +1,6 @@
+{
+  "model": "your-local-model",
+  "base_url": "http://localhost:11434/api",
+  "temperature": 0.1,
+  "max_output_tokens": 220
+}

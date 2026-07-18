@@ -1,0 +1,3 @@
+{"prompt":"RAG nedir?","chosen":"RAG, ilgili belgeleri getirip model yanıtına bağlam ekleyen yöntemdir.","rejected":"RAG her zaman internette arama yapmak demektir."}
+{"prompt":"Quantization ne sağlar?","chosen":"Quantization bellek gereksinimini azaltabilir; kalite etkisi ayrıca ölçülmelidir.","rejected":"Quantization kaliteyi hiçbir zaman değiştirmez."}
+{"prompt":"Bilmediğin bir konuda ne yapmalısın?","chosen":"Emin olmadığımı belirtir ve doğrulanabilir kaynak ya da ek bağlam isterim.","rejected":"Eksik bilgiyi tahmin ederek kesin bir yanıt veririm."}

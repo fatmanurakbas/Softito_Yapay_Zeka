@@ -1,0 +1,6 @@
+[
+  {"id": "rag-basics", "title": "RAG Temelleri", "text": "Retrieval-Augmented Generation, dil modeli yanıt üretmeden önce ilgili belgeleri getiren bir yaklaşımdır. Getirilen parçalar isteme bağlam olarak eklenir. Bu yöntem güncel veya kuruma özgü bilgiyi kullanmaya yardımcı olur."},
+  {"id": "chunking", "title": "Belge Parçalama", "text": "Chunk boyutu retrieval kalitesini etkiler. Çok küçük parçalar bağlamı kaybedebilir, çok büyük parçalar ise alakasız metin taşıyabilir. Overlap, sınırdaki bilgilerin iki parçada da bulunmasına yardımcı olur."},
+  {"id": "quantization", "title": "Quantization", "text": "Quantization model ağırlıklarını daha düşük hassasiyette temsil eder. Böylece bellek tüketimi ve yerel çıkarım maliyeti azalabilir. Düşük hassasiyet bazı görevlerde yanıt kalitesini etkileyebilir."},
+  {"id": "evaluation", "title": "RAG Değerlendirmesi", "text": "RAG değerlendirmesinde retrieval ve generation ayrı izlenmelidir. Recall@k, doğru kaynağın ilk k sonuç içinde bulunup bulunmadığını ölçer. Faithfulness ise yanıtın sağlanan bağlama sadakatini inceler."}
+]

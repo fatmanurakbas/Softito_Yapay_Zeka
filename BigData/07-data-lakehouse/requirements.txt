@@ -1,0 +1,1 @@
+# Egzersizler Python standart kütüphanesiyle çalışır.

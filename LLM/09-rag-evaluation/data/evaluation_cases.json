@@ -1,0 +1,5 @@
+[
+  {"id":"q1","question":"Quantization ne sağlar?","gold_sources":["quantization-0"],"expected_keywords":["bellek","kalite"]},
+  {"id":"q2","question":"Chunk overlap neden kullanılır?","gold_sources":["chunking-0"],"expected_keywords":["sınır","parça"]},
+  {"id":"q3","question":"Recall@k neyi ölçer?","gold_sources":["evaluation-0"],"expected_keywords":["kaynak","k"]}
+]

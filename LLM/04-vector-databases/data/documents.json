@@ -1,0 +1,6 @@
+[
+  {"id":"rag-1","text":"RAG ilgili belge parçalarını getirerek dil modeli yanıtını kaynakla destekler.","metadata":{"category":"rag","language":"tr"}},
+  {"id":"slm-1","text":"Yerel küçük dil modelleri quantization ile daha düşük bellek kullanabilir.","metadata":{"category":"slm","language":"tr"}},
+  {"id":"vector-1","text":"Vektör veritabanı embedding ve metadata ile benzerlik araması yapar.","metadata":{"category":"database","language":"tr"}},
+  {"id":"prompt-1","text":"Prompt tasarımı modelin görev talimatını ve çıktı biçimini açıklar.","metadata":{"category":"llm","language":"tr"}}
+]

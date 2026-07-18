@@ -1,0 +1,5 @@
+[
+  {"id":"q1","answer":"Quantization bellek tüketimini azaltabilir; düşük hassasiyet kaliteyi etkileyebilir. [quantization-0]","citations":["quantization-0"]},
+  {"id":"q2","answer":"Overlap, sınırdaki bilginin iki parçada da kalmasına yardım eder. [chunking-0]","citations":["chunking-0"]},
+  {"id":"q3","answer":"Recall@k, doğru kaynağın ilk k sonuçta olup olmadığını ölçer. [evaluation-0]","citations":["evaluation-0"]}
+]

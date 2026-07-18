@@ -1,0 +1,1 @@
+{"base_model":"your-base-model","output_dir":"adapters/turkce-lora","max_length":256,"epochs":3,"learning_rate":0.0002,"batch_size":2,"r":8,"lora_alpha":16,"lora_dropout":0.05,"target_modules":["q_proj","v_proj"]}

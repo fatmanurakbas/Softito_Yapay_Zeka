@@ -1,0 +1,1 @@
+# Uygulama Python standart kütüphanesiyle çalışır; yerel Ollama servisi gerektirir.

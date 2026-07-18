@@ -1,0 +1,2 @@
+# Kavramsal egzersizler standart kütüphane ile çalışır.
+# Gerçek Delta Lake deneyi için: pyspark>=3.5 ve delta-spark
