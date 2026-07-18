@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Softito Yapay Zeka Öğrenme Deposu
 
 Bu depo; makine öğrenmesi, derin öğrenme, doğal dil işleme, büyük dil modelleri, küçük dil modelleri, büyük veri, web scraping ve Docker ile model servisleştirme konularını uygulamalı olarak çalışmak için hazırlanmış Türkçe bir eğitim alanıdır.
@@ -79,3 +80,6 @@ Softito_Yapay_Zeka/
 ## Katkı ve içerik ekleme
 
 Yeni bir konu eklerken sıralı klasör adı kullanın, Türkçe README ekleyin ve mümkünse küçük bir çalıştırılabilir örnek hazırlayın. Bu depo için içerik kuralları ve hazır görev şablonları [.agents](.agents/README.md) klasöründe bulunur.
+=======
+
+>>>>>>> ddcbc27b528e820d2662d086eac8563ecbe3d2fb

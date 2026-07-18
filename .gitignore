@@ -1,14 +1,5 @@
-# Python bytecode and caches
-__pycache__/
-*.py[cod]
-*$py.class
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-.coverage
-coverage.xml
-htmlcov/
 
+<<<<<<< HEAD
 # Python environments and packaging
 .venv/
 venv/
@@ -66,3 +57,5 @@ dist-web/
 .DS_Store
 Thumbs.db
 Desktop.ini
+=======
+>>>>>>> ddcbc27b528e820d2662d086eac8563ecbe3d2fb
