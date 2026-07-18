@@ -76,7 +76,3 @@ Softito_Yapay_Zeka/
 
 - [Tek servis FastAPI uygulaması](Docker/ml_projem/README.md)
 - [Gateway ve üç model servisi içeren mikroservis platformu](Docker/ml-churn-platform/README.md)
-
-## Katkı ve içerik ekleme
-
-Yeni bir konu eklerken sıralı klasör adı kullanın, Türkçe README ekleyin ve mümkünse küçük bir çalıştırılabilir örnek hazırlayın. Bu depo için içerik kuralları ve hazır görev şablonları [.agents](.agents/README.md) klasöründe bulunur.
